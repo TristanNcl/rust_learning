@@ -1,0 +1,5 @@
+/Users/thedude/Documents/Pro/rust_learning/5_using_structs_to_structure_related_data/defining_and_instantiating_structs/target/debug/deps/defining_and_instantiating_structs-21caed5a8649f6fc: src/main.rs
+
+/Users/thedude/Documents/Pro/rust_learning/5_using_structs_to_structure_related_data/defining_and_instantiating_structs/target/debug/deps/defining_and_instantiating_structs-21caed5a8649f6fc.d: src/main.rs
+
+src/main.rs:

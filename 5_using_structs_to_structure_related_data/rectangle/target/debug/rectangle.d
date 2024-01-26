@@ -1,0 +1,1 @@
+/Users/thedude/Documents/Pro/rust_learning/5_using_structs_to_structure_related_data/rectangle/target/debug/rectangle: /Users/thedude/Documents/Pro/rust_learning/5_using_structs_to_structure_related_data/rectangle/src/main.rs
